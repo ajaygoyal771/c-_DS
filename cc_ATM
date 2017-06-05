@@ -1,0 +1,19 @@
+#include<iostream>
+
+float main()
+{
+
+float x,y,z;
+z=y-x-0.50;
+
+cin>>y>>x;
+if(0<x<=2000 and x%5=0)
+{
+cout<<z<<endl;
+}
+else;
+{
+cout<<y<<endl;
+}
+return 1;
+}
